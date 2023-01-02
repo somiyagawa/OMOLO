@@ -1,6 +1,7 @@
-# OMOLO
-Open Multilingual Online Lexicon of Okinawan
+# OMOLO (**O**pen **M**ultilingual **O**nline **L**exicon of **O**kinawan)
 
-This site is under construction.
+A platform of Lexicography of the Okinawan language.
+This application is under construction.
 
-CC BY International 4.0
+# License
+[![CC BY](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
