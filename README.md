@@ -1,4 +1,4 @@
-# OMOLO **O**pen **M**ultilingual **O**nline **L**exicon of **O**kinawan
+# OMOLO (**O**pen **M**ultilingual **O**nline **L**exicon of **O**kinawan)
 
 A platform of Lexicography of the Okinawan language.
 This application is under construction.
