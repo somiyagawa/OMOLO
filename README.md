@@ -1,5 +1,5 @@
 # OMOLO
-Open Multilingual Online Lexicon of Okinawan
+**O**pen **M**ultilingual **O**nline **L**exicon of **O**kinawan
 
 This site is under construction.
 
