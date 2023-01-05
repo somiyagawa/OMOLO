@@ -332,13 +332,21 @@ mii ⓪ (見)， nuuN ⓪ (見る)，’NNci ⓪ (見て) など規則的な音�
 
 ##### ’judi ⓪（読んで）
 
-標準語の「…して」と同様に文中に用いられるほか，文末にも，’judaN ⓪（読んだ）に透い意味で用いられることがある。また，’judikara ⓪（読んでから），’judiN ⓪（読んでも）がある。また，単独で，または -du，-N， -ja などの助調がついて他の動詞（「補助動詞」）に先立ち，その動詞とともに一つの述語として用いうる。それには次のようなものがある。’judi ⓪ ?aQcuN[^9] ⓪（読んでばかりいる），’judi ⓪ neeN ⓪（読んでしまった），’judl ⓪ ?icuN ①（読んでいく），’judi ⓪ cuuN ⓪（読んでくる），’judi ⓪ tuujuN ⓪（読破する），’judi ⓪ ’uN ①（読んでいるんだ。’judooN ⓪ のぶっきらぼうな言い方），’judi ⓪ ?aN ⓪（読んであるんだ。’judeeN ⓪ のぶっきらぼうな言い方），’judi ⓪ ’NNzuN ⓪（読んでみる），’judi ⓪ misijuN ⓪（読んでみせる），，judi⑪ 七urasjuN⑪（読んでやる），’judi⑨kwijUN①（読んでくれる），’judi⑱
+標準語の「…して」と同様に文中に用いられるほか，文末にも，’judaN ⓪（読んだ）に透い意味で用いられることがある。また，’judikara ⓪（読んでから），’judiN ⓪（読んでも）がある。また，単独で，または -du，-N， -ja などの助調がついて他の動詞（「補助動詞」）に先立ち，その動詞とともに一つの述語として用いうる。それには次のようなものがある。’judi ⓪ ?aQcuN[^9] ⓪（読んでばかりいる），’judi ⓪ neeN ⓪（読んでしまった），’judl ⓪ ?icuN ①（読んでいく），’judi ⓪ cuuN ⓪（読んでくる），’judi ⓪ tuujuN ⓪（読破する），’judi ⓪ ’uN ①（読んでいるんだ。’judooN ⓪ のぶっきらぼうな言い方），’judi ⓪ ?aN ⓪（読んであるんだ。’judeeN ⓪ のぶっきらぼうな言い方），’judi ⓪ ’NNzuN ⓪（読んでみる），’judi ⓪ misijuN ⓪（読んでみせる），，judi⑪ 七urasjuN⑪（読んでやる），’judi⑨kwijUN①（読んでくれる），’judi⑱ taboori ⓪（読んでください），’judidu ⓪ ’uru ①（読んでいるのだ。’judooN ⓪「読んでいる」を-duによって強調したもの），’judidu ⓪ ?aru ⓪（読んであるのだ。’judeeN ⓪ を -du によって強調したもの），’judee ⓪ ’uraN ①（読んでいない。’judooN ⓪「読んでいる」の否定），’judee ⓪ neeN ⓪（読んでない。’judeeN ⓪「読んである」の否定），’judiN ⓪ ’uraN ①（読んでもいな い。’judee ⓪ ’uraN ①「読んでいない」を -N によって強調したもの）など。 
 
-tab◎01’i⑪（読んでください），，ju戯du⑪，uru④（読んでいるのだ。，judoON⑪「読んでいる」を一duによって強調したもの），，judidu⑪？aru⑪（読ん であるのだ。’judee黄⑨を一duによって強調したもの），’judee⑪，uraN① （読んでいない。，3udoON⑪「読んでいる」の否定），，juδee⑨neeN⑨（読ん でない。，judeeN⑪「読んである」の否定），，3udiN⑪，uraN①（読んでもいな い。，麟dee⑪’ur＆N④「読んでいない」を一Nによって強調したもの）など。 ’jumaa⑪∼’jumawa⑪（読んだら） 標準語文語の「未然形」＋rば」に対応する。後者の発音もあるが論者が多い。 ？ariga①’jumaa⑪？jaaN①’jumee⑨・もし彼が読んだらおまえ．も読め。 ’junuraa⑪（読むんだったら，説むのなら） ’juauraa⑥，3u鵬ee⑨．読むんだったら読め。 9）
+##### ’jumaa ⓪ 〜 ’jumawa ⓪（読んだら） 
 
-’jumee⑨（読めば）
+* 標準語文語の「未然形」＋「ば」に対応する。後者の発音もあるが前者が多い。 ?ariga ① ’jumaa ⓪ ?jaaN ① ’jumee ⓪. もし彼が読んだらおまえも読め。 
 
-標準語文語のジ已然形」＋「ば」に対応する。’ju撚ee⑪ わかる。？utUilee⑪，warij“N①・落とせば翻れる。 ’jumiwaiu＠（読めばこそ）
+##### ’junuraa ⓪（読むんだったら，読むのなら）
+
+* ’juauraa ⓪ ’junee ⓪．読むんだったら読め。 
+
+##### ’jumee ⓪（読めば）[^9]
+
+* 標準語文語の「已然形」＋「ば」に対応する。’jumee ⓪ ’wakajuN ⓪. 読めばわかる。?utu$ee ⓪ ’warijuN ①. 落とせば割れる。 
+
+#### ’jumiwaiu＠（読めばこそ）
 
 ㌔
 
