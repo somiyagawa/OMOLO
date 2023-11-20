@@ -1,0 +1,27 @@
+{
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "@id" : "https://dglb01.ninjal.ac.jp/iiif/kongochokyo_inseiki/001/tiff/kidi001-013.tiff",
+  "protocol" : "http://iiif.io/api/image",
+  "width" : 2599,
+  "height" : 2431,
+  "sizes" : [
+     { "width" : 40, "height" : 37 },
+     { "width" : 81, "height" : 75 },
+     { "width" : 162, "height" : 151 },
+     { "width" : 324, "height" : 303 },
+     { "width" : 649, "height" : 607 },
+     { "width" : 1299, "height" : 1215 }
+  ],
+  "tiles" : [
+     { "width" : 256, "height" : 256, "scaleFactors" : [ 1, 2, 4, 8, 16, 32, 64 ] }
+  ],
+  "profile" : [
+     "http://iiif.io/api/image/2/level1.json",
+     { "formats" : [ "jpg" ],
+       "qualities" : [ "native","color","gray","bitonal" ],
+       "supports" : ["regionByPct","regionSquare","sizeByForcedWh","sizeByWh","sizeAboveFull","rotationBy90s","mirroring"],
+       "maxWidth" : 8000,
+       "maxHeight" : 8000
+     }
+  ]
+}
